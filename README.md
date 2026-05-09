@@ -6,7 +6,6 @@
 **A passionate developer crafting innovative solutions**
 
 [![GitHub followers](https://img.shields.io/github/followers/Abisola2811HI?style=for-the-badge&logo=github)](https://github.com/Abisola2811HI?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/Abisola2811HI?style=for-the-badge)](https://github.com/Abisola2811HI)
 
 </div>
 
@@ -59,27 +58,13 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![Abisola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abisola2811HI&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/Abisola2811HI)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abisola2811HI&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)](https://github.com/Abisola2811HI)
-
-[![Abisola's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abisola2811HI&theme=tokyonight&hide_border=true)](https://github.com/Abisola2811HI)
-
-</div>
-
----
-
-## 🚀 Recent Projects & Repositories
+## 🚀 Projects & Repositories
 
 ### 📌 Featured Work
 Visit my [repositories](https://github.com/Abisola2811HI?tab=repositories) to explore all my projects!
 
 **Popular Projects:**
-- 🔗 Check out my pinned repositories below for my best work
+- 🔗 Check out my pinned repositories for my best work
 - 💻 All projects showcase clean code and best practices
 - 🎨 Focus on user experience and functionality
 
@@ -112,11 +97,11 @@ I'm always interested in collaborating on exciting projects and meeting like-min
 ## 💻 Quick Stats
 
 ```
-📊 Total Contributions: 1,000+
-🔥 Longest Streak: Active Developer
-💪 Most Used Language: JavaScript/Python
-🎯 Repositories: 20+
-🌟 Followers: Growing Daily
+📊 Active Developer
+💪 Quality-Focused Code
+🎯 Building Amazing Projects
+🌟 Growing Community
+🚀 Always Learning
 ```
 
 ---
@@ -133,7 +118,7 @@ I'm always interested in collaborating on exciting projects and meeting like-min
 
 ---
 
-## 📚 Latest Blog Posts & Resources
+## 📚 Resources & Documentation
 
 - 📝 Check my repositories' README files for detailed project documentation
 - 💡 Explore my code to see best practices and design patterns
@@ -150,9 +135,5 @@ I'm always interested in collaborating on exciting projects and meeting like-min
 - 🤝 Contributing to my projects
 
 **Thank you for visiting my profile! Happy coding! 🚀**
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abisola2811HI&style=flat-square&color=blue)
 
 </div>
