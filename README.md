@@ -6,9 +6,9 @@ I'm **Abisola**, a passionate developer crafting elegant solutions to complex pr
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer with expertise in **[Your Tech Stack]**
-- 🎓 Continuous learner passionate about **[Your Interests]**
-- 🌱 Currently exploring **[Current Learning Goals]**
+- 💻 Full-stack developer with expertise in **html, css, javascript**
+- 🎓 Continuous learner passionate about **solving projects**
+- 🌱 Currently exploring **javascript**
 - 💡 Enthusiastic about open source and collaborating with the community
 - 🎯 Goal: Building impactful projects that make a difference
 
